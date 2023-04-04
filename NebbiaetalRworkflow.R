@@ -8,7 +8,7 @@ library(maptools)
 library(rgeos)
 library(raster)
 library(spatstat)
-#library(sparr)
+library(sparr)
 library(viridis)
 
 ## Set up
