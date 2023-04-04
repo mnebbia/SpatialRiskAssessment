@@ -13,7 +13,6 @@ library(viridis)
 
 ## Set up
 #setwd("~/....../NebbiaetalSuppMaterial") # save and exctract the folder on local drive and set it as working directory
-setwd("~/Documents/PUBBLICATIONS/south khalton/JCH submission/NebbiaetalSuppMaterial")
 
 ## Read in 
 region <- readOGR("shp/tj_region.shp", layer="tj_region")
